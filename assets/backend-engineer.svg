@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">I make backends behave.</title>
+  <desc id="desc">Even the ones with history. An editorial banner for Aakash Martand, senior software engineer, focused on backend architecture, database performance, and legacy modernization.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111820"/>
+      <stop offset="1" stop-color="#0a0b0d"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="17" fill="url(#grid)" stroke="#28313b"/>
+  <rect x="42" y="39" width="27" height="3" rx="1.5" fill="#f3b54a"/>
+  <text x="83" y="46" font-family="DejaVu Sans, sans-serif" font-size="13" letter-spacing="2.3" fill="#d5d9df">BACKEND ENGINEERING / SINCE 2015</text>
+  <text x="42" y="130" font-family="DejaVu Sans, sans-serif" font-size="55" font-weight="700" letter-spacing="-2" fill="#f4f1e9">I make backends behave.</text>
+  <text x="43" y="187" font-family="DejaVu Serif, Georgia, serif" font-size="34" font-style="italic" fill="#f3b54a">Even the ones with history.</text>
+  <line x1="43" y1="224" x2="1157" y2="224" stroke="#30363e"/>
+  <text x="43" y="261" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#c3c9d1">Backend architecture. Database performance. Legacy modernization.</text>
+  <text x="43" y="298" font-family="DejaVu Sans Mono, monospace" font-size="12" letter-spacing="1.1" fill="#8e99a8">UNDERSTAND → MEASURE → SIMPLIFY → SHIP</text>
+  <g transform="translate(1017 53)">
+    <path d="M0 0H-16V119H0 M119 0H135V119H119" fill="none" stroke="#f3b54a" stroke-width="2" opacity="0.65"/>
+    <text x="60" y="76" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="50" letter-spacing="-4" fill="#e7e9ec">AM</text>
+    <rect x="42" y="98" width="38" height="3" rx="1.5" fill="#f3b54a"/>
+  </g>
+  <text x="1157" y="298" text-anchor="end" font-family="DejaVu Sans Mono, monospace" font-size="12" fill="#8e99a8">aakashmartand.com</text>
+</svg>
